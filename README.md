@@ -8,7 +8,7 @@ I’m a Flutter Developer with a passion for building scalable and visually appe
 
 📱 Flutter Expert – Crafting smooth, responsive, and modern mobile apps
 
-🎨 UI/UX Designer – Creating intuitive and engaging user experiences
+🎨 UI/UX – Creating intuitive and engaging user experiences
 
 💡 Tech Innovator – Passionate about AI, blockchain, and Web3 integrations
 
