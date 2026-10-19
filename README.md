@@ -1,46 +1,51 @@
-Hi there, I'm Adil Ramzan! 👋
-🚀 Flutter Developer | UI/UX Designer | Web & App Enthusiast
+# Hi there, I'm Adil Ramzan 👋
 
-I’m a Flutter Developer with a passion for building scalable and visually appealing mobile and web applications. I specialize in UI/UX design, state management (GetX, MVVM, MVC), API integrations, and AI-driven app solutions.
+### 🚀 Software Engineer | SaaS Builder
 
+I build scalable, well-designed software for mobile and web. I enjoy taking products from idea to launch, from interface design and front-end development to backend integrations and AI-powered features.
 
-🔥 About Me
+---
 
-📱 Flutter Expert – Crafting smooth, responsive, and modern mobile apps
+## 🔥 About Me
 
-🎨 UI/UX – Creating intuitive and engaging user experiences
+📱 **Full-Stack SaaS Builder**: Mobile and web apps that are fast, responsive, and polished
 
-💡 Tech Innovator – Passionate about AI, blockchain, and Web3 integrations
+🎨 **UI/UX Focused**: Intuitive interfaces and engaging user experiences
 
-🤝 Team Player – Collaborating and leading development teams
+💡 **Tech Innovator**: Passionate about AI, blockchain, and Web3 integrations
 
+🤝 **Collaborator & Leader**: Working with and leading development teams
 
-🛠️ Tech Stack
+---
 
-🔹 Languages & Frameworks: Flutter, Dart, Java, HTML, CSS, JavaScript
+## 🛠️ Tech Stack
 
-🔹 State Management: GetX, Provider, Bloc, MVVM, MVC
+🔹 **Languages & Frameworks:** Flutter, Dart, TypeScript, JavaScript, Next.js, Java, HTML, CSS
 
-🔹 Backend & Databases: Firebase, Supabase, MySQL
+🔹 **Architecture & State Management:** MVVM, MVC, GetX, Provider, Bloc
 
-🔹 Tools & Platforms: Git, Figma, Adobe XD, Wix
+🔹 **Backend & Databases:** Firebase, Supabase, MySQL, REST API integrations
 
+🔹 **Tools & Platforms:** Git, Figma, Adobe XD, Wix
 
-📌 Projects
+---
 
-EVChargeShare – A Flutter-based EV charging station booking app
+## 📌 Selected Projects
 
-PaytonFC – A financial service app for easy transactions
+- **EVChargeShare**: EV charging station booking app
+- **PaytonFC**: Financial service app for easy transactions
+- **3rd Point Group Loan App**: Streamlined loan application system
+- **Social Media & Dating Apps**: Secure and engaging user experiences
+- **PDF Privacy Guard**: SaaS platform for secure PDF sharing with access controls and analytics
+- *...and many more*
 
-3rd Point Group Loan App – A streamlined loan application system
+---
 
-Social Media & Dating Apps – Secure and engaging user experiences
+## 📫 Let's Connect!
 
-And Many More...
+- 💼 [LinkedIn](https://www.linkedin.com/in/adil-ramzan-22a072270)
+- ✉️ [adilramzan764@gmail.com](mailto:adilramzan764@gmail.com)
 
+---
 
-
-📫 Let's Connect!
-
-
-💡 "Building the future, one line of code at a time!" 🚀
+💡 *"Building the future, one line of code at a time!"* 🚀
